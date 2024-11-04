@@ -10,6 +10,3 @@ Este projeto tem como objetivo realizar uma análise de sentimentos utilizando o
 4. **Análise de Texto**: Realize a análise de uma frase de exemplo.
 5. **Análise de Tweets**: Defina uma lista de tweets e analise a polaridade de cada um.
 
-## Uso
-
-Os passos detalhados são seguidos para implementar a análise de sentimentos, facilitando a compreensão e adaptação do código para diferentes conjuntos de dados. O projeto pode ser facilmente executado e modificado conforme necessário.
